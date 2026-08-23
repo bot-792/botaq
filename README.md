@@ -5,8 +5,23 @@
 <h1 align="center">𝗝𝗜𝗧𝗢𝗦𝗔 𝗕𝗢𝗧 🇲🇦</h1>
 <h3 align="center">بـوت واتـسـاب متـعدد الاجـهـزة بالـذكـاء الاصـطـناعي</h3>
 
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/mysto-off/JITOSA-V1?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/forks/mysto-off/JITOSA-V1?style=for-the-badge&logo=github&color=purple" />
+  <img src="https://img.shields.io/github/issues/mysto-off/JITOSA-V1?style=for-the-badge&logo=github&color=red" />
+  <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge" />
+</p>
+
+---
+
 <p align="center">
 <a href="https://instagram.com/adam.__.98"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+<a href="https://chat.whatsapp.com/رابط_القروب_ديالك"><img src="https://img.shields.io/badge/GROUP%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -16,3 +31,9 @@
 <p align="center">
 <a href="https://wa.me/212698498657"><img src="https://img.shields.io/badge/DEVELOPER%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
+
+---
+
+### 📝 <span style="color:#00D9FF">حول البوت</span>
+JITOSA BOT هو بوت واتساب متعدد الأجهزة مبني على `Baileys` مع دعم الذكاء الاصطناعي. 
+يدعم الأوامر السريعة، التحميل، والالعاب وكلشي ناضي 🚀
