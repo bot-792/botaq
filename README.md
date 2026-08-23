@@ -8,21 +8,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/mysto-off/jitossa-v1/stargazers">
-    <img src="https://img.shields.io/github/stars/mysto-off/jitossa-v1?style=for-the-badge&logo=github&color=yellow" />
-  </a>
-  <a href="https://github.com/mysto-off/jitossa-v1/network/members">
-    <img src="https://img.shields.io/github/forks/mysto-off/jitossa-v1?style=for-the-badge&logo=github&color=purple" />
-  </a>
-  <a href="https://github.com/mysto-off/jitossa-v1/issues">
-    <img src="https://img.shields.io/github/issues/mysto-off/jitossa-v1?style=for-the-badge&logo=github&color=red" />
-  </a>
-  <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
 <a href="https://instagram.com/adam.__.98"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://chat.whatsapp.com/رابط_القروب_ديالك"><img src="https://img.shields.io/badge/GROUP%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
