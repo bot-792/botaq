@@ -8,7 +8,7 @@ import axios from "axios";
 const channelName = '𝗝𝗜𝗧𝗢𝗦𝗦𝗔 𝗕𝗢𝗧 🇲🇦'
 const CHANNEL_ID = '120363410733859643@newsletter'
 const INSTAGRAM_URL = `https://instagram.com/adam.__.98`
-const DEVELOPER = '*adam.__.98*'
+const DEVELOPER = '*mysto off *'
 const newsletter = {
     forwardingScore: 999,
     isForwarded: true,
