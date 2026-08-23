@@ -12,22 +12,35 @@ global.source = 'https://chat.whatsapp.com/LF76mRDRwLlI4pdbMi0d5A?mode=hqrc';
 global.wait = 'Loading...';
 global.eror = 'Terjadi Kesalahan...';
 
+/* ============== BOT MODE ============== */
+/*
+ * true  = البوت يخدم غير فالخاص
+ * false = البوت يخدم فالخاص والمجموعات
+ */
+global.privateOnly = true;
+
+/* ============== PAKASIR ============== */
+
 global.pakasir = {
 	slug: 'kilersbotz',
 	apikey: 'bWDO2M8GcfruzXscdKNQJC3vw8Y8PV13',
-	expired: 30, //1 = 1menit. 30 = 30menit
+	expired: 30,
 };
+
+/* ============== STICKER ============== */
 
 global.stickpack = 'Croted By';
 global.stickauth = namebot;
 
-global.multiplier = 38; // The higher, The harder levelup
+global.multiplier = 38;
 
-/*============== EMOJI ==============*/
+/* ============== EMOJI ============== */
+
 global.rpg = {
 	emoticon(string) {
-		string = string.toLowerCase();
-		let emot = {
+		string = String(string).toLowerCase();
+
+		const emot = {
 			level: '📊',
 			limit: '🎫',
 			health: '❤️',
@@ -43,7 +56,7 @@ global.rpg = {
 			legendary: '🗃️',
 			superior: '💼',
 			pet: '🔖',
-			trash: '🗑',
+			trash: '🗑️',
 			armor: '🥼',
 			sword: '⚔️',
 			pickaxe: '⛏️',
@@ -61,17 +74,27 @@ global.rpg = {
 			emerald: '❇️',
 			upgrader: '🧰',
 		};
-		let results = Object.keys(emot)
-			.map((v) => [v, new RegExp(v, 'gi')])
-			.filter((v) => v[1].test(string));
+
+		const results = Object.keys(emot)
+			.map(v => [v, new RegExp(v, 'gi')])
+			.filter(v => v[1].test(string));
+
 		if (!results.length) return '';
-		else return emot[results[0][0]];
+
+		return emot[results[0][0]];
 	},
 };
 
-let file = fileURLToPath(import.meta.url);
+/* ============== AUTO RELOAD ============== */
+
+const file = fileURLToPath(import.meta.url);
+
 watchFile(file, () => {
 	unwatchFile(file);
-	console.log(chalk.redBright("Update 'config.js'"));
+
+	console.log(
+		chalk.redBright("Update 'config.js'")
+	);
+
 	import(`${file}?update=${Date.now()}`);
 });
