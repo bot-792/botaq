@@ -76,7 +76,7 @@ let handler = async (m, { conn, text, usedPrefix: _p, command }) => {
     let thumbnail = videos[0].thumbnail.thumbnails.pop().url
 
     let caption = `📋 *نـتـائـج الـبـحـث عـن :* ${text}\n📊 *عـدد الـنـتـائـج :* ${videos.length}\n\n`
-    caption += `*BY adam.__.98*`
+    caption += `*by mysto off*`
 
     let sections = [
       {
