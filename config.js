@@ -1,25 +1,16 @@
 import { watchFile, unwatchFile } from 'fs';
 import chalk from 'chalk';
 import { fileURLToPath } from 'url';
-import { Button, ButtonV2,Carousel, AIRich } from './lib/MessageBuilder.js';
-
-global.Button = Button;
-global.ButtonV2 = ButtonV2;
-global.Carousel = Carousel;
-global.AIRich = AIRich;
 
 global.pairingNumber = 212718891104;
-global.owner = [
-  ['212698498657', '𝗮𝗱𝗮𝗺.___.𝟵𝟴', true],
-  ['', 'Owner 2', true],
-];
+global.owner = [['212718891104', 'Agus', true]];
 
-global.namebot = '𝗕𝗬 𝗝𝗜𝗧𝗢𝗦𝗦𝗔 𝗕𝗢𝗧';
-global.author = '';
-global.source = 'https://whatsapp.com/channel/0029VbCxraN7T8bbAyc2j31J';
+global.namebot = 'ChiiBOT - MD';
+global.author = 'Agus';
+global.source = 'https://chat.whatsapp.com/LF76mRDRwLlI4pdbMi0d5A?mode=hqrc';
 
-global.wait = 'جـــاري الانتـظـار';
-global.eror = 'وقــع خــطـأ';
+global.wait = 'Loading...';
+global.eror = 'Terjadi Kesalahan...';
 
 global.pakasir = {
 	slug: 'kilersbotz',
@@ -27,7 +18,7 @@ global.pakasir = {
 	expired: 30, //1 = 1menit. 30 = 30menit
 };
 
-global.stickpack = 'Created By';
+global.stickpack = 'Croted By';
 global.stickauth = namebot;
 
 global.multiplier = 38; // The higher, The harder levelup
