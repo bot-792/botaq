@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/oxz51r.jpg" width="250" alt="Mysto Logo"/>
+  <img src="https://files.catbox.moe/oxz51r.jpg" width="250" alt="JITOSA Logo"/>
 </p>
 
 <h1 align="center">𝗝𝗜𝗧𝗢𝗦𝗔 𝗕𝗢𝗧 🇲🇦</h1>
@@ -8,14 +8,14 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/mysto-off/JITOSA-V1/stargazers">
-    <img src="https://img.shields.io/github/stars/mysto-off/JITOSA-V1?style=for-the-badge&logo=github&color=yellow" />
+  <a href="https://github.com/mysto-off/jitossa-v1/stargazers">
+    <img src="https://img.shields.io/github/stars/mysto-off/jitossa-v1?style=for-the-badge&logo=github&color=yellow" />
   </a>
-  <a href="https://github.com/mysto-off/JITOSA-V1/network/members">
-    <img src="https://img.shields.io/github/forks/mysto-off/JITOSA-V1?style=for-the-badge&logo=github&color=purple" />
+  <a href="https://github.com/mysto-off/jitossa-v1/network/members">
+    <img src="https://img.shields.io/github/forks/mysto-off/jitossa-v1?style=for-the-badge&logo=github&color=purple" />
   </a>
-  <a href="https://github.com/mysto-off/JITOSA-V1/issues">
-    <img src="https://img.shields.io/github/issues/mysto-off/JITOSA-V1?style=for-the-badge&logo=github&color=red" />
+  <a href="https://github.com/mysto-off/jitossa-v1/issues">
+    <img src="https://img.shields.io/github/issues/mysto-off/jitossa-v1?style=for-the-badge&logo=github&color=red" />
   </a>
   <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge" />
 </p>
@@ -48,14 +48,31 @@ JITOSA BOT هو بوت واتساب متعدد الأجهزة مبني على `B
 
 ### ✨ <span style="color:#FFD93D">المميزات</span>
 
-| <p align="center">الفئة</p> | <p align="center">الوصف</p> |
+|  | الوصف |
 | :---: | :--- |
-| **🤖 AI** | متكامل مع `GPT`, `Deepseek`, و `Gemini` للمحادثة الذكية |
-| **📥 Downloader** | تحميل من `Instagram`, `TikTok`, `YouTube` (MP3/MP4), `MediaFire` وغيرها |
-| **🎮 الترفيه** | أوامر ممتعة مثل `truth`, `dare` و ألعاب تفاعلية |
-| **👑 الإدارة** | أدوات للأدمن مثل `kick`, `promote`, `hideTag` و إعدادات القروب |
-| **🔧 أدوات** | `Stalker`, `Stickers`, `TTS`, `QR` و أدوات أخرى مفيدة |
+| 📥 **Downloader** | تحميل من `Instagram` , `TikTok` , `YouTube` <br> `(MP3/MP4)`, `MediaFire` وغيرها |
+| 🎮 **الترفيه** | أوامر ممتعة مثل `truth` , `dare` و ألعاب تفاعلية |
+| 👑 **الإدارة** | أدوات للأدمن مثل `kick` , `promote` , `hideTag` و إعدادات القروب |
+| 🔧 **أدوات** | `Stalker` , `Stickers` , `TTS` , `QR` و أدوات أخرى مفيدة |
 
 ---
 
-### 📁 <span style="color:#F85149">هيكل المشروع</span>
+### 📁 <span style="color:#F85149">هيكل المشروع 📂</span>
+
+<details>
+<summary><b>اضغط لعرض هيكل الملفات</b></summary>
+
+```tree
+JITOSA-V1/
+├── plugins/          # مجلد الأوامر
+│   ├── ai/           # أوامر الذكاء الاصطناعي
+│   ├── downloader/   # أوامر التحميل
+│   ├── fun/          # أوامر الترفيه
+│   └── ...           # باقي الأوامر
+├── lib/              # المكتبات
+├── media/            # ملفات الصور والفيديو
+├── database/         # قاعدة البيانات
+├── config.js         # ملف الإعدادات
+├── index.js          # الملف الرئيسي لتشغيل البوت
+├── package.json      # الحزم والاعتمادات
+└── README.md         # التوثيق
