@@ -198,7 +198,7 @@ const handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             return await conn.sendButton(m.chat, {
                 image: { url: BANNER },
                 caption: caption,
-                footer: { text: `𝗕𝘆 𝗮𝗱𝗮𝗺.___.𝟵𝟴` },
+                footer: { text: `by mysto._.98` },
                 buttons: [
                     {name: 'quick_reply', buttonParamsJson: JSON.stringify({display_text: '🏠 الـرجـوع', id: _p + 'الأوامر'})}
                 ],
@@ -247,7 +247,7 @@ const handler = async (m, { conn, usedPrefix: _p, args, command }) => {
         await conn.sendButton(m.chat, {
             image: { url: BANNER },
             caption: caption,
-            footer: { text: `𝗢𝘄𝗻𝗲𝗿: 𝗮𝗱𝗮𝗺.___.𝟵𝟴` },
+            footer: { text: `by mysto._.98` },
             buttons: [
                 { name: 'single_select', buttonParamsJson: JSON.stringify({ title: '🗂️ الأقــســام الرئــيـســية', sections: sections }) },
                 { name: 'quick_reply', buttonParamsJson: JSON.stringify({ display_text: '⭐ تـقـيــيـم الـبـوت', id: _p + 'rate' }) },
