@@ -72,7 +72,7 @@ async function sendApk(conn, m, app) {
 
     await m.react('⬇️').catch(() => {})
 
-    const apkCaption = `*🔖اسـم تطبـيق :* ${app.name}\n\n*🇲🇦 بـواسـطـة : ${BOT_NAME}*\n*👑 الـمطــور : mysto._.98*`
+    const apkCaption = `*🔖اسـم تطبـيق :* ${app.name}\n\n*🇲🇦 بـواسـطـة : ${BOT_NAME}*\n*👑 الـمطــور : 𝗠𝗬𝗦𝗧𝗢 𝗢𝗙𝗙*`
 
     await conn.sendMessage(m.chat, {
         document: { url: downloadUrl },
