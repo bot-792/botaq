@@ -30,48 +30,48 @@
 
 <table width="100%">
 <tr align="center">
-<th> الـفئـة </th>
-<th> التـفاصيـل </th>
+<th width="25%"> الـفئـة </th>
+<th width="75%"> التـفاصيـل </th>
 </tr>
 <tr>
 <td align="center">📥 <b>Downloader</b></td>
-<td>Instagram, TikTok, YouTube, Facebook, MediaFire - MP3/MP4/4K</td>
+<td>تحميل من Instagram, TikTok, YouTube, Facebook بجودة 4K/MP3/MP4</td>
 </tr>
 <tr>
 <td align="center">🤖 <b>AI</b></td>
-<td>GPT-4, Gemini, Deepseek, بحث ويب, تحليل صور</td>
+<td>دردشة GPT-4, Gemini, Deepseek + بحث ويب + تحليل الصور</td>
 </tr>
 <tr>
 <td align="center">🕌 <b>Islamic</b></td>
-<td>قرآن, أذكار, أدعية, مواقيت الصلاة</td>
+<td>قرآن كريم, أذكار, أدعية + مواقيت الصلاة اليومية</td>
 </tr>
 <tr>
 <td align="center">🌤️ <b>Info</b></td>
-<td>الطقس, الأخبار, العملات, الترجمة</td>
+<td>الطقس, الأخبار, أسعار العملات + الترجمة الفورية</td>
 </tr>
 <tr>
 <td align="center">👑 <b>Admin</b></td>
-<td>kick, promote, antilink, welcome, قفل, تحذيرات</td>
+<td>إدارة القروب: kick, promote, antilink, welcome, قفل</td>
 </tr>
 <tr>
 <td align="center">🧑‍💻 <b>Developer</b></td>
-<td>eval, exec, broadcast, بانل تحكم</td>
+<td>أوامر eval, exec, broadcast + بانل تحكم كامل</td>
 </tr>
 <tr>
 <td align="center">🎭 <b>Sticker</b></td>
-<td>صورة, فيديو, GIF → Sticker, إزالة خلفية</td>
+<td>تحويل الصور والفيديو لستيكرات + إزالة الخلفية</td>
 </tr>
 <tr>
 <td align="center">🎮 <b>Games</b></td>
-<td>RPG, اقتصاد, truth, dare, نكت</td>
+<td>ألعاب RPG, نظام اقتصاد + truth, dare, نكت</td>
 </tr>
 <tr>
 <td align="center">🔧 <b>Tools</b></td>
-<td>Stalker, TTS, QR, Remini, Pinterest, Weather</td>
+<td>Stalker, TTS, QR, Remini, Pinterest + أدوات أخرى</td>
 </tr>
 <tr>
 <td align="center">📢 <b>Support</b></td>
-<td>نظام بلاغات `.report` مباشر للمطور</td>
+<td>نظام بلاغات `.report` مباشر للتواصل مع المطور</td>
 </tr>
 </table>
 
