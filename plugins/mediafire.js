@@ -9,7 +9,7 @@ const newsletter = {
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
         newsletterJid: '120363410733859643@newsletter',
-        newsletterName: `$mysto._.98`
+        newsletterName: `$𝗠𝗬𝗦𝗧𝗢 𝗢𝗙𝗙`
     }
 }
 // =====================================
@@ -42,7 +42,6 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
         caption += `*🔐 الـخـصـوصـيـة:* ${res.privacy}\n`
         caption += `*👤 الـمـالـك:* ${res.owner_name}\n\n`
         caption += `✅ *تـم الـتـحـمـيـل مـن mediafire*\n`
-        caption += `📲 *تـابـعـنـي فـي الانـسـتـغـرام: @${instagram}*`
 
         // صيفط الملف
         await conn.sendMessage(
