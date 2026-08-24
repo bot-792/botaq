@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://files.catbox.moe/oxz51r.jpg" width="220" alt="JITOSA Logo"/>
 </p>
@@ -14,7 +15,7 @@
 
 ---
 
-### 🔗 الروابط الرسمية
+### 🔗 الـروابـط الـرسـمـية
 
 <p align="center">
   <a href="https://instagram.com/adam.__.98"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -26,9 +27,9 @@
 
 ---
 
-### ✨ المميزات | Features
+### ✨ المــمـــيزات 
 
-| Category | التفاصيل |
+| الـفئـة | التـفاصيـل |
 | :---: | :--- |
 | 📥 **Downloader** | Instagram, TikTok, YouTube, Facebook, MediaFire - MP3/MP4/4K |
 | 🤖 **AI** | GPT-4, Gemini, Deepseek, بحث ويب, تحليل صور |
@@ -43,9 +44,9 @@
 
 ---
 
-### 📥 المنصات المدعومة | Supported Platforms
+### 📥 المنـصـات المـدعـومـة
 
-| Platform | الجودة | الصيغ |
+| المـنصـة | الـجـودة | الصـيغ |
 | :---: | :---: | :--- |
 | 📷 **Instagram** | 4K | فيديو, ريلز, ستوري, صور |
 | 🎵 **TikTok** | HD | فيديو بدون علامة, MP3 |
@@ -55,9 +56,9 @@
 
 ---
 
-### 🔧 الأوامر الأساسية | Commands
+### 🔧 الأوامــر الأسـاسـيـة 
 
-| Command | الاستخدام |
+| الأوامـــر | الاستخدام |
 | :--- | :--- |
 | `.menu` | عرض قائمة الأوامر |
 | `.ملصق` | رد على صورة/فيديو → ستيكر |
@@ -69,9 +70,9 @@
 
 ---
 
-### ⚙️ التثبيت | Installation
+### ⚙️ الـتثبــيت
 
-| Step | الأمر |
+| الخـط$وط | الأمــر |
 | :--- | :--- |
 | **1. Clone** | `git clone https://github.com/mysto-off/jitosa-bot` |
 | **2. Enter** | `cd jitosa-bot` |
