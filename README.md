@@ -12,10 +12,6 @@
   <img src="https://img.shields.io/badge/License-MIT-F7DF1E?style=for-the-badge"/>
 </p>
 
----
-
-### 🔗 الـروابـط الـرسـمـية
-
 <p align="center">
   <a href="https://instagram.com/adam.__.98"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://chat.whatsapp.com/رابط_القروب_ديالك"><img src="https://img.shields.io/badge/GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
