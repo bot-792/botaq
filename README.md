@@ -81,9 +81,9 @@
 
 <table width="100%">
 <tr align="center">
-<th> المـنصـة </th>
-<th> الـجـودة </th>
-<th> الصـيغ </th>
+<th width="30%"> المـنصـة </th>
+<th width="15%"> الـجـودة </th>
+<th width="55%"> الصـيغ </th>
 </tr>
 <tr>
 <td align="center">📷 <b>Instagram</b></td>
@@ -118,8 +118,8 @@
 
 <table width="100%">
 <tr align="center">
-<th> الأوامـــر </th>
-<th> الاسـتخـدام </th>
+<th width="30%"> الأوامـــر </th>
+<th width="70%"> الاسـتخـدام </th>
 </tr>
 <tr>
 <td align="center">🔴 <b>.menu</b></td>
@@ -157,8 +157,8 @@
 
 <table width="100%">
 <tr align="center">
-<th> الخـطـوة </th>
-<th> الأمــر </th>
+<th width="25%"> الخـطـوة </th>
+<th width="75%"> الأمــر </th>
 </tr>
 <tr>
 <td align="center"><b>1. Clone</b></td>
