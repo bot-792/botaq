@@ -9,13 +9,39 @@
 
 ### 🔗 <span style="color:#00D9FF">روابط رسمية</span>
 
-| المنصة | الرابط |
-| :---: | :---: |
-| 📸 **Instagram** | [adam.__.98](https://instagram.com/adam.__.98) |
-| 👥 **Group WhatsApp** | [دخول القروب](https://chat.whatsapp.com/رابط_القروب_ديالك) |
-| 📢 **Channel WhatsApp** | [القناة الرسمية](https://whatsapp.com/channel/0029VbCxraN7T8bbAyc2j31J) |
-| 👑 **Developer WhatsApp** | [+212 698-498657](https://wa.me/212698498657) |
-| 💻 **GitHub** | [mysto-off](https://github.com/mysto-off) |
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://instagram.com/adam.__.98">
+        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://chat.whatsapp.com/رابط_القروب_ديالك">
+        <img src="https://img.shields.io/badge/GROUP%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://whatsapp.com/channel/0029VbCxraN7T8bbAyc2j31J">
+        <img src="https://img.shields.io/badge/CHANNEL%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/212698498657">
+        <img src="https://img.shields.io/badge/DEVELOPER%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/mysto-off">
+        <img src="https://img.shields.io/badge/DEVELOPER%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
