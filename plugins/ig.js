@@ -15,7 +15,7 @@ const HEADERS = {
 const channelName = '𝗝𝗜𝗧𝗢𝗦𝗦𝗔 𝗕𝗢𝗧 🇲🇦'
 const CHANNEL_ID = '120363410733859643@newsletter'
 const INSTAGRAM_URL = `https://instagram.com/adam.__.98`
-const DEVELOPER = '*𝗕𝗬 𝗠𝗬𝗦𝗧𝗢 𝗢𝗙𝗙*' // زدنا هادي
+const DEVELOPER = '*𝗠𝗬𝗦𝗧𝗢 𝗢𝗙𝗙*' // زدنا هادي
 const newsletter = {
     forwardingScore: 999,
     isForwarded: true,
