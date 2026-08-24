@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">𝗝𝗜𝗧𝗢𝗦𝗔 𝗕𝗢𝗧 🇲🇦</h1>
-<h3 align="center">WhatsApp Multi-Device Bot | AI Powered</h3>
+<h3 align="center">بـوت واتـسـاب مـمتـعـد الأجـهـزة مـدعــوم بالـذكـاء الاصـطـنـاعـي </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1.0-5865F2?style=for-the-badge"/>
