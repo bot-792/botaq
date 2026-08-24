@@ -3,7 +3,7 @@ import axios from 'axios'
 // ===== معلومات القناة + الانستغرام =====
 const channelName = '𝗝𝗜𝗧𝗢𝗦𝗦𝗔 𝗕𝗢𝗧 🇲🇦'
 const CHANNEL_ID = '120363410733859643@newsletter'
-const instaLink = 'https://instagram.com/adam.__.98'
+const instaLink = 'https://instagram.com/mysto._.98'
 const channelLink = 'https://whatsapp.com/channel/0029VbCxraN7T8bbAyc2j31J'
 
 const newsletter = {
@@ -76,7 +76,7 @@ let handler = async (m, { conn, text, usedPrefix: _p, command }) => {
     let thumbnail = videos[0].thumbnail.thumbnails.pop().url
 
     let caption = `📋 *نـتـائـج الـبـحـث عـن :* ${text}\n📊 *عـدد الـنـتـائـج :* ${videos.length}\n\n`
-    caption += `*by mysto off*`
+    caption += `*by mysto._.98*`
 
     let sections = [
       {
