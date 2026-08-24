@@ -26,7 +26,57 @@
 
 ---
 
-## 📥 Downloader
+### ✨ المــمـــيزات 
 
-### تحميل من TikTok
-**الاستخدام:**
+<table width="100%">
+<tr align="center">
+<th width="25%"> الـفئـة </th>
+<th width="75%"> التـفاصيـل </th>
+</tr>
+<tr>
+<td align="center">📥 <b>Downloader</b></td>
+<td>تحميل من Instagram, TikTok, YouTube, Facebook بجودة 4K/MP3/MP4</td>
+</tr>
+<tr>
+<td align="center">🤖 <b>AI</b></td>
+<td>دردشة GPT-4, Gemini, Deepseek + بحث ويب + تحليل الصور</td>
+</tr>
+<tr>
+<td align="center">🕌 <b>Islamic</b></td>
+<td>قرآن كريم, أذكار, أدعية + مواقيت الصلاة اليومية</td>
+</tr>
+<tr>
+<td align="center">🌤️ <b>Info</b></td>
+<td>الطقس, الأخبار, أسعار العملات + الترجمة الفورية</td>
+</tr>
+<tr>
+<td align="center">👑 <b>Admin</b></td>
+<td>إدارة القروب: kick, promote, antilink, welcome, قفل</td>
+</tr>
+<tr>
+<td align="center">🧑‍💻 <b>Developer</b></td>
+<td>أوامر eval, exec, broadcast + بانل تحكم كامل</td>
+</tr>
+<tr>
+<td align="center">🎭 <b>Sticker</b></td>
+<td>تحويل الصور والفيديو لستيكرات + إزالة الخلفية</td>
+</tr>
+<tr>
+<td align="center">🎮 <b>Games</b></td>
+<td>ألعاب RPG, نظام اقتصاد + truth, dare, نكت</td>
+</tr>
+<tr>
+<td align="center">🔧 <b>Tools</b></td>
+<td>Stalker, TTS, QR, Remini, Pinterest + أدوات أخرى</td>
+</tr>
+<tr>
+<td align="center">📢 <b>Support</b></td>
+<td>نظام بلاغات `.report` مباشر للتواصل مع المطور</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <b>© 2026 JITOSA TEAM | Made with ❤️</b>
+</p>
