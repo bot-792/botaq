@@ -1,77 +1,108 @@
 <p align="center">
-  <img src="https://files.catbox.moe/oxz51r.jpg" width="250" alt="JITOSA Logo"/>
+  <img src="https://files.catbox.moe/oxz51r.jpg" width="220" alt="JITOSA Logo"/>
 </p>
 
 <h1 align="center">𝗝𝗜𝗧𝗢𝗦𝗔 𝗕𝗢𝗧 🇲🇦</h1>
-<h3 align="center">بـوت واتـسـاب متـعدد الأجـهـزة بـالـذكـاء الاصـطـناعي</h3>
+<h3 align="center">WhatsApp Multi-Device Bot | AI Powered</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Baileys-Latest-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI-GPT%20%7C%20Gemini%20%7C%20Deepseek-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Version-2.1.0-5865F2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Baileys-Multi--Device-00D9FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-F7DF1E?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🔗 <span style="color:#00D9FF">تواصل معنا</span>
-<p align="center">
-  <a href="https://instagram.com/adam.__.98"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://chat.whatsapp.com/رابط_القروب_ديالك"><img src="https://img.shields.io/badge/GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://whatsapp.com/channel/0029VbCxraN7T8bbAyc2j31J"><img src="https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://wa.me/212698498657"><img src="https://img.shields.io/badge/DEVELOPER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://github.com/mysto-off"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+### 🔗 الروابط الرسمية
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://instagram.com/adam.__.98">
+        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://chat.whatsapp.com/رابط_القروب_ديالك">
+        <img src="https://img.shields.io/badge/GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://whatsapp.com/channel/0029VbCxraN7T8bbAyc2j31J">
+        <img src="https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://wa.me/212698498657">
+        <img src="https://img.shields.io/badge/DEVELOPER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" colspan="2">
+      <a href="https://github.com/mysto-off">
+        <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📝 <span style="color:#58A6FF">عن البوت</span>
-> **JITOSA BOT** هو بوت واتساب متعدد الأجهزة مبني على مكتبة `Baileys`  
-> مزود بـ `AI` قوي ويدعم التحميل، الألعاب، الإدارة، وأدوات كثيرة. سريع، خفيف، وكلشي ناضي 🚀
+### ✨ المميزات
 
----
-
-### ✨ <span style="color:#FFD93D">شرح المميزات</span>
-
-| القسم | الوصف التفصيلي |
+| الفئة | التفاصيل |
 | :---: | :--- |
-| 📥 **التحميل** | تحميل فيديو وصوت من `Instagram` , `TikTok` , `YouTube` , `MediaFire` <br> يدعم `MP3 / MP4` بجودة عالية |
-| 🤖 **الذكاء الاصطناعي** | دردشة مع `GPT-4` , `Gemini` , `Deepseek` <br> بحث جوجل + بحث بالصور + تلخيص المقالات |
-| 🕌 **القسم الديني** | `أذكار الصباح والمساء` , `القرآن الكريم` , `أدعية` , `مواقيت الصلاة` حسب المدينة |
-| 🌤️ **الطقس والأخبار** | حالة الطقس لأي مدينة في العالم + آخر الأخبار العاجلة |
-| 👑 **أدوات الإدارة** | `kick` , `promote` , `demote` , `hideTag` , `antilink` , `welcome` , `قفل القروب` |
-| 🧑‍💻 **أوامر المطور** | `eval` , `exec` , `broadcast` , `ban` , `unban` - خاصة بالمطور فقط |
-| 🎭 **الملصقات** | إنشاء `Sticker` من صورة وفيديو و GIF <br> إنشاء باكات ملصقات وحفظها |
-| 🎮 **الترفيه** | ألعاب: `truth` , `dare` , `تحدي` , `نكت` , `اقتباسات` |
-| 🔧 **أدوات مساعدة** | `Stalker IG` , `TTS` نص إلى صوت , `QR` , `Translate` , `Weather` , `Pinterest` |
-| 📢 **نظام الدعم** | إرسال بلاغ أو اقتراح يوصل مباشرة للمطور |
+| 📥 **التحميل** | Instagram, TikTok, YouTube, MediaFire - MP3/MP4/4K |
+| 🤖 **الذكاء الاصطناعي** | GPT-4, Gemini, Deepseek, بحث ويب, تحليل صور |
+| 🕌 **القسم الديني** | قرآن, أذكار, أدعية, مواقيت الصلاة |
+| 🌤️ **المعلومات** | الطقس, الأخبار, العملات, الترجمة |
+| 👑 **الإدارة** | kick, promote, antilink, welcome, قفل, تحذيرات |
+| 🧑‍💻 **المطور** | eval, exec, broadcast, بانل تحكم |
+| 🎭 **الملصقات** | صورة, فيديو, GIF → Sticker, إزالة خلفية |
+| 🎮 **الترفيه** | RPG, اقتصاد, truth, dare, نكت |
+| 🔧 **الأدوات** | Stalker, TTS, QR, Remini, Pinterest, Weather |
+| 📢 **الدعم** | نظام بلاغات `.report` مباشر للمطور |
 
 ---
 
-### 📥 <span style="color:#4ADE80">المنصات المدعومة للتحميل</span>
+### 📥 المنصات المدعومة
 
-| المنصة | الجودة | ملاحظة |
+| المنصة | الجودة | الصيغ |
 | :---: | :---: | :--- |
-| 📷 **Instagram** | HD | فيديو, ريلز, ستوري, صور |
-| 🎵 **TikTok** | HD | بدون علامة مائية + MP3 |
-| ▶️ **YouTube** | 4K | فيديو MP4 + صوت MP3 |
-| 📦 **MediaFire** | اي حجم | تحميل مباشر |
-| 🔜 **قريباً** | - | Facebook, Twitter, SoundCloud |
+| 📷 **Instagram** | 4K | فيديو, ريلز, ستوري, صور |
+| 🎵 **TikTok** | HD | فيديو بدون علامة, MP3 |
+| ▶️ **YouTube** | 4K | فيديو MP4, صوت MP3, قوائم |
+| 📦 **MediaFire** | غير محدود | تحميل مباشر |
 
 ---
 
-### 🔧 <span style="color:#F472B6">طريقة الاستخدام</span>
+### 🔧 الأوامر الأساسية
 
-| الأمر | المثال | الشرح |
-| :--- | :--- | :--- |
-| `.ملصق` | `صورة + .ملصق` | تحويل الصورة لملصق |
-| `.ملصق` | `فيديو + .ملصق` | تحويل الفيديو لملصق متحرك 6 ثواني |
-| `.gpt` | `.gpt ما هو الذكاء الاصطناعي` | سؤال للذكاء الاصطناعي |
-| `.yt` | `.yt https://youtube.com/...` | تحميل من يوتيوب |
-| `.menu` | `.menu` | عرض جميع الأوامر |
+| الأمر | الاستخدام |
+| :--- | :--- |
+| `.menu` | عرض قائمة الأوامر |
+| `.ملصق` | رد على صورة/فيديو → ستيكر |
+| `.gpt <سؤال>` | دردشة مع الذكاء الاصطناعي |
+| `.yt <رابط>` | تحميل من يوتيوب |
+| `.play <اسم>` | بحث وتشغيل أغنية |
+| `.tagall <رسالة>` | منشن للجميع |
+| `.report <مشكلة>` | إرسال بلاغ للمطور |
+
+---
+
+### ⚙️ التثبيت
+
+| الخطوة | الأمر |
+| :--- | :--- |
+| **1. استنساخ** | `git clone https://github.com/mysto-off/jitosa-bot` |
+| **2. الدخول** | `cd jitosa-bot` |
+| **3. التثبيت** | `npm install` |
+| **4. التشغيل** | `npm start` |
 
 ---
 
 <p align="center">
-  <b>Made with ❤️ by JITOSA TEAM</b><br>
-  <sub>إذا عجبك البوت دير ⭐ للـ Repo</sub>
+  <b>© 2026 JITOSA TEAM | Made with ❤️</b>
 </p>
