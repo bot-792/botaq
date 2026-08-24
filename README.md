@@ -28,55 +28,155 @@
 
 ### ✨ المــمـــيزات 
 
-| الـفئـة | التـفاصيـل |
-| :---: | :--- |
-| 📥 **Downloader** | Instagram, TikTok, YouTube, Facebook, MediaFire - MP3/MP4/4K |
-| 🤖 **AI** | GPT-4, Gemini, Deepseek, بحث ويب, تحليل صور |
-| 🕌 **Islamic** | قرآن, أذكار, أدعية, مواقيت الصلاة |
-| 🌤️ **Info** | الطقس, الأخبار, العملات, الترجمة |
-| 👑 **Admin** | kick, promote, antilink, welcome, قفل, تحذيرات |
-| 🧑‍💻 **Developer** | eval, exec, broadcast, بانل تحكم |
-| 🎭 **Sticker** | صورة, فيديو, GIF → Sticker, إزالة خلفية |
-| 🎮 **Games** | RPG, اقتصاد, truth, dare, نكت |
-| 🔧 **Tools** | Stalker, TTS, QR, Remini, Pinterest, Weather |
-| 📢 **Support** | نظام بلاغات `.report` مباشر للمطور |
+<table width="100%">
+<tr align="center">
+<th> الـفئـة </th>
+<th> التـفاصيـل </th>
+</tr>
+<tr>
+<td align="center">📥 <b>Downloader</b></td>
+<td>Instagram, TikTok, YouTube, Facebook, MediaFire - MP3/MP4/4K</td>
+</tr>
+<tr>
+<td align="center">🤖 <b>AI</b></td>
+<td>GPT-4, Gemini, Deepseek, بحث ويب, تحليل صور</td>
+</tr>
+<tr>
+<td align="center">🕌 <b>Islamic</b></td>
+<td>قرآن, أذكار, أدعية, مواقيت الصلاة</td>
+</tr>
+<tr>
+<td align="center">🌤️ <b>Info</b></td>
+<td>الطقس, الأخبار, العملات, الترجمة</td>
+</tr>
+<tr>
+<td align="center">👑 <b>Admin</b></td>
+<td>kick, promote, antilink, welcome, قفل, تحذيرات</td>
+</tr>
+<tr>
+<td align="center">🧑‍💻 <b>Developer</b></td>
+<td>eval, exec, broadcast, بانل تحكم</td>
+</tr>
+<tr>
+<td align="center">🎭 <b>Sticker</b></td>
+<td>صورة, فيديو, GIF → Sticker, إزالة خلفية</td>
+</tr>
+<tr>
+<td align="center">🎮 <b>Games</b></td>
+<td>RPG, اقتصاد, truth, dare, نكت</td>
+</tr>
+<tr>
+<td align="center">🔧 <b>Tools</b></td>
+<td>Stalker, TTS, QR, Remini, Pinterest, Weather</td>
+</tr>
+<tr>
+<td align="center">📢 <b>Support</b></td>
+<td>نظام بلاغات `.report` مباشر للمطور</td>
+</tr>
+</table>
 
 ---
 
 ### 📥 المنـصـات المـدعـومـة
 
-| المـنصـة | الـجـودة | الصـيغ |
-| :---: | :---: | :--- |
-| 📷 **Instagram** | 4K | فيديو, ريلز, ستوري, صور |
-| 🎵 **TikTok** | HD | فيديو بدون علامة, MP3 |
-| ▶️ **YouTube** | 4K | فيديو MP4, صوت MP3, قوائم |
-| 📘 **Facebook** | HD | فيديو, ريلز |
-| 📦 **MediaFire** |MB| تحميل مباشر |
+<table width="100%">
+<tr align="center">
+<th> المـنصـة </th>
+<th> الـجـودة </th>
+<th> الصـيغ </th>
+</tr>
+<tr>
+<td align="center">📷 <b>Instagram</b></td>
+<td align="center">4K</td>
+<td>فيديو, ريلز, ستوري, صور</td>
+</tr>
+<tr>
+<td align="center">🎵 <b>TikTok</b></td>
+<td align="center">HD</td>
+<td>فيديو بدون علامة, MP3</td>
+</tr>
+<tr>
+<td align="center">▶️ <b>YouTube</b></td>
+<td align="center">4K</td>
+<td>فيديو MP4, صوت MP3, قوائم</td>
+</tr>
+<tr>
+<td align="center">📘 <b>Facebook</b></td>
+<td align="center">HD</td>
+<td>فيديو, ريلز</td>
+</tr>
+<tr>
+<td align="center">📦 <b>MediaFire</b></td>
+<td align="center">MB</td>
+<td>تحميل مباشر</td>
+</tr>
+</table>
 
 ---
 
 ### 🔧 الأوامــر الأسـاسـيـة 
 
-| الأوامـــر | الاسـتخـدام |
-| :---: | :--- |
-| 🔴 **.menu** | عـرض قـائمــة الأوامـر |
-| 🇲🇦 **.apk** | تحـميل تـطـبيـقات |
-| 📝 **.yts** | البـحــث فــي يوتـيـوب |
-| 🌟 **.ytmp3** | تحـمـيل فـيديـو |
-| 🥇 **.ytmp4** | تحـمـيل صـوتـي |
-| 🗓️ **.play** | تـحميـل اغـانـي |
-| 🕸️ **.report** | ارسـل إبــلاغ الـي مـطـور |
+<table width="100%">
+<tr align="center">
+<th> الأوامـــر </th>
+<th> الاسـتخـدام </th>
+</tr>
+<tr>
+<td align="center">🔴 <b>.menu</b></td>
+<td>عـرض قـائمــة الأوامـر</td>
+</tr>
+<tr>
+<td align="center">🇲🇦 <b>.apk</b></td>
+<td>تحـميل تـطـبيـقات</td>
+</tr>
+<tr>
+<td align="center">📝 <b>.yts</b></td>
+<td>البـحــث فــي يوتـيـوب</td>
+</tr>
+<tr>
+<td align="center">⭐ <b>.ytmp3</b></td>
+<td>تحـمـيل فـيديـو</td>
+</tr>
+<tr>
+<td align="center">🥇 <b>.ytmp4</b></td>
+<td>تحـمـيل صـوتـي</td>
+</tr>
+<tr>
+<td align="center">📅 <b>.play</b></td>
+<td>تـحميـل اغـانـي</td>
+</tr>
+<tr>
+<td align="center">📢 <b>.report</b></td>
+<td>ارسـل إبــلاغ الـي مـطـور</td>
+</tr>
+</table>
 
 ---
 
 ### ⚙️ الـتثبــيت
 
-| الخـطـوة | الأمــر |
-| :---: | :--- |
-| **1. Clone** | `git clone https://github.com/mysto-off/jitosa-bot` |
-| **2. Enter** | `cd jitosa-bot` |
-| **3. Install** | `npm install` |
-| **4. Start** | `npm start` |
+<table width="100%">
+<tr align="center">
+<th> الخـطـوة </th>
+<th> الأمــر </th>
+</tr>
+<tr>
+<td align="center"><b>1. Clone</b></td>
+<td><code>git clone https://github.com/mysto-off/jitosa-bot</code></td>
+</tr>
+<tr>
+<td align="center"><b>2. Enter</b></td>
+<td><code>cd jitosa-bot</code></td>
+</tr>
+<tr>
+<td align="center"><b>3. Install</b></td>
+<td><code>npm install</code></td>
+</tr>
+<tr>
+<td align="center"><b>4. Start</b></td>
+<td><code>npm start</code></td>
+</tr>
+</table>
 
 ---
 
