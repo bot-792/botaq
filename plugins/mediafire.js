@@ -9,7 +9,7 @@ const newsletter = {
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
         newsletterJid: '120363410733859643@newsletter',
-        newsletterName: `$adam.__.98`
+        newsletterName: `$mysto._.98`
     }
 }
 // =====================================
