@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.1.0-5865F2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version-1.0.0-5865F2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Baileys-Multi--Device-00D9FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/License-MIT-F7DF1E?style=for-the-badge"/>
