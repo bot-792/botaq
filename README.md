@@ -5,6 +5,7 @@
 <h1 align="center">𝗝𝗜𝗧𝗢𝗦𝗔 𝗕𝗢𝗧 🇲🇦</h1>
 <h3 align="center">بـوت واتـسـاب مـمتـعـد الأجـهـزة مـدعــوم بالـذكـاء الاصـطـنـاعـي </h3>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1.0-5865F2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
