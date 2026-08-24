@@ -18,15 +18,6 @@
   <a href="https://whatsapp.com/channel/0029VbCxraN7T8bbAyc2j31J"><img src="https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://wa.me/212698498657"><img src="https://img.shields.io/badge/DEVELOPER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://github.com/mysto-off"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### ✨ المــمـــيزات 
-
-جميع المميزات غادي تلقاهم داخل البوت باستعمال امر `.menu`
-
----
 
 <p align="center">
   <b>© 2026 JITOSA TEAM | Made with ❤️</b>
