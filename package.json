@@ -16,14 +16,14 @@
     "format": "prettier --write .",
     "lint": "eslint . --ext .js"
   },
-  "author": "adam",
-  "homepage": "https://github.com/adam-xyz/jitossa-v1#readme",
+  "author": "mysto-off",
+  "homepage": "https://github.com/mysto-off/jitossa-v1#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adam-xyz/jitossa-v1.git"
+    "url": "git+https://github.com/mysto-off/jitossa-v1.git"
   },
   "bugs": {
-    "url": "https://github.com/adam-xyz/jitossa-v1/issues"
+    "url": "https://github.com/mysto-off/jitossa-v1/issues"
   },
   "keywords": [
     "jitossa-bot",
