@@ -26,26 +26,26 @@
 
 ---
 
-### ✨ المميزات
+### ✨ المميزات | Features
 
-| الفئة | التفاصيل |
+| Category | التفاصيل |
 | :---: | :--- |
-| 📥 **التحميل** | Instagram, TikTok, YouTube, Facebook, MediaFire - MP3/MP4/4K |
-| 🤖 **الذكاء الاصطناعي** | GPT-4, Gemini, Deepseek, بحث ويب, تحليل صور |
-| 🕌 **القسم الديني** | قرآن, أذكار, أدعية, مواقيت الصلاة |
-| 🌤️ **المعلومات** | الطقس, الأخبار, العملات, الترجمة |
-| 👑 **الإدارة** | kick, promote, antilink, welcome, قفل, تحذيرات |
-| 🧑‍💻 **المطور** | eval, exec, broadcast, بانل تحكم |
-| 🎭 **الملصقات** | صورة, فيديو, GIF → Sticker, إزالة خلفية |
-| 🎮 **الترفيه** | RPG, اقتصاد, truth, dare, نكت |
-| 🔧 **الأدوات** | Stalker, TTS, QR, Remini, Pinterest, Weather |
-| 📢 **الدعم** | نظام بلاغات `.report` مباشر للمطور |
+| 📥 **Downloader** | Instagram, TikTok, YouTube, Facebook, MediaFire - MP3/MP4/4K |
+| 🤖 **AI** | GPT-4, Gemini, Deepseek, بحث ويب, تحليل صور |
+| 🕌 **Islamic** | قرآن, أذكار, أدعية, مواقيت الصلاة |
+| 🌤️ **Info** | الطقس, الأخبار, العملات, الترجمة |
+| 👑 **Admin** | kick, promote, antilink, welcome, قفل, تحذيرات |
+| 🧑‍💻 **Developer** | eval, exec, broadcast, بانل تحكم |
+| 🎭 **Sticker** | صورة, فيديو, GIF → Sticker, إزالة خلفية |
+| 🎮 **Games** | RPG, اقتصاد, truth, dare, نكت |
+| 🔧 **Tools** | Stalker, TTS, QR, Remini, Pinterest, Weather |
+| 📢 **Support** | نظام بلاغات `.report` مباشر للمطور |
 
 ---
 
-### 📥 المنصات المدعومة
+### 📥 المنصات المدعومة | Supported Platforms
 
-| المنصة | الجودة | الصيغ |
+| Platform | الجودة | الصيغ |
 | :---: | :---: | :--- |
 | 📷 **Instagram** | 4K | فيديو, ريلز, ستوري, صور |
 | 🎵 **TikTok** | HD | فيديو بدون علامة, MP3 |
@@ -55,9 +55,9 @@
 
 ---
 
-### 🔧 الأوامر الأساسية
+### 🔧 الأوامر الأساسية | Commands
 
-| الأمر | الاستخدام |
+| Command | الاستخدام |
 | :--- | :--- |
 | `.menu` | عرض قائمة الأوامر |
 | `.ملصق` | رد على صورة/فيديو → ستيكر |
@@ -69,14 +69,14 @@
 
 ---
 
-### ⚙️ التثبيت
+### ⚙️ التثبيت | Installation
 
-| الخطوة | الأمر |
+| Step | الأمر |
 | :--- | :--- |
-| **1. استنساخ** | `git clone https://github.com/mysto-off/jitosa-bot` |
-| **2. الدخول** | `cd jitosa-bot` |
-| **3. التثبيت** | `npm install` |
-| **4. التشغيل** | `npm start` |
+| **1. Clone** | `git clone https://github.com/mysto-off/jitosa-bot` |
+| **2. Enter** | `cd jitosa-bot` |
+| **3. Install** | `npm install` |
+| **4. Start** | `npm start` |
 
 ---
 
