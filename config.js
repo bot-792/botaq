@@ -3,14 +3,14 @@ import chalk from 'chalk';
 import { fileURLToPath } from 'url';
 
 global.pairingNumber = 21271597986;
-global.owner = [['21715597986', 'Agus', true]];
+global.owner = [['212698498657', '𝗠𝗬𝗦𝗧𝗢 𝗢𝗙𝗙', true]];
 
-global.namebot = 'ChiiBOT - MD';
-global.author = 'Agus';
-global.source = 'https://chat.whatsapp.com/LF76mRDRwLlI4pdbMi0d5A?mode=hqrc';
+global.namebot = '𝗝𝗜𝗧𝗢𝗦𝗦𝗔 𝗕𝗢𝗧';
+global.author = '';
+global.source = 'https://whatsapp.com/channel/0029VbCxraN7T8bbAyc2j31J';
 
-global.wait = 'Loading...';
-global.eror = 'Terjadi Kesalahan...';
+global.wait = 'جــاري تـحـمـيل...';
+global.eror = 'وقـــع خـطـــــأ...';
 
 /* ============== BOT MODE ============== */
 /*
