@@ -2,7 +2,7 @@ import { watchFile, unwatchFile } from 'fs';
 import chalk from 'chalk';
 import { fileURLToPath } from 'url';
 
-global.pairingNumber = 212718891104;
+global.pairingNumber = 212715597986;
 global.owner = [['212698498657', '𝗠𝗬𝗦𝗧𝗢 𝗢𝗙𝗙', true]];
 
 global.namebot = '𝗕𝗬 𝗝𝗜𝗧𝗢𝗦𝗦𝗔 𝗕𝗢𝗧';
